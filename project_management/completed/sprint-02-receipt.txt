@@ -1,0 +1,7 @@
+1. Goal: Replace placeholder text with real academic and project data for Sandra Elza Thomas.
+2. What I did: > - Updated the Hero section with Information Systems student status at NJIT.
+
+Populated the project grid with three specific projects (Python Game, Data Analyzer, and Portfolio).
+
+Updated contact links and email.
+3. Verification: Checked the browser to ensure no HTML tags were broken and that the typography remains consistent.

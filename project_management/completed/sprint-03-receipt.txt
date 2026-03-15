@@ -1,0 +1,7 @@
+1. Goal: Final technical check and deployment to GitHub Pages.
+2. What I did: > - Performed an audit of the HTML for IS 117 standards.
+
+Fixed the file extension from .html.html to .html.
+
+Uploaded files to GitHub for hosting.
+3. Verification: Site is live and accessible via the public GitHub URL.
